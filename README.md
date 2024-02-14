@@ -11,11 +11,6 @@ This repository serves as a comprehensive guide and resource for mastering the i
 
 1. [Introduction to RecyclerView](#introduction-to-recyclerview)
 2. [Key Features](#key-features)
-3. [Getting Started](#getting-started)
-4. [Usage Examples](#usage-examples)
-5. [Advanced Techniques](#advanced-techniques)
-6. [Best Practices](#best-practices)
-7. [Troubleshooting](#troubleshooting)
 
 ## Introduction to RecyclerView
 
