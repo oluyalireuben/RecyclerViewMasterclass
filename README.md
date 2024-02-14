@@ -17,7 +17,6 @@ This repository serves as a comprehensive guide and resource for mastering the i
 6. [Best Practices](#best-practices)
 7. [Troubleshooting](#troubleshooting)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Introduction to RecyclerView
 
