@@ -16,7 +16,6 @@ This repository serves as a comprehensive guide and resource for mastering the i
 5. [Advanced Techniques](#advanced-techniques)
 6. [Best Practices](#best-practices)
 7. [Troubleshooting](#troubleshooting)
-8. [Contributing](#contributing)
 
 ## Introduction to RecyclerView
 
