@@ -7,8 +7,6 @@ Welcome to the RecyclerViewMasterclass repository! 🚀
 
 This repository serves as a comprehensive guide and resource for mastering the implementation of RecyclerView in Android app development. Whether you're a beginner looking to understand the basics or an experienced developer aiming to enhance your skills, this masterclass will provide you with valuable insights, best practices, and efficient techniques for utilizing RecyclerView.
 
-## Table of Contents
-
 ## Introduction to RecyclerView
 
 RecyclerView is a powerful and flexible widget in Android that is used to display a scrolling list or grid of elements. It is a crucial component for efficient handling of large datasets and providing a smooth user experience.
