@@ -24,7 +24,7 @@ RecyclerView is a powerful and flexible widget in Android that is used to displa
 To get started with RecyclerView, follow these steps:
 
 1. Clone or download this repository.
-2. Run the app on your Android device.
+2. Run the app on your Android device.📱
 
 
 
